@@ -1,0 +1,40 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.log
+*.bak
+
+# Sensitive Information (if any)
+*.key
+*.pem
+*.p12
+secrets.txt
+credentials.txt
+
+# Large files that shouldn't be in repo (if any)
+*.ova
+*.vmdk
+*.vdi
+
+# Python (if any scripts)
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+env/
+
+# Node (if any)
+node_modules/
+package-lock.json
+
