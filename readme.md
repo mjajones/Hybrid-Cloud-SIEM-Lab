@@ -608,7 +608,7 @@ This project is for educational and portfolio purposes. All technologies and too
 ## 👤 Author
 
 **Michael Jones**  
-LinkedIn: [mjajones](https://linkedin.com/in/mjajones)  
+LinkedIn: [mjajones](https://linkedin.com/in/michaeljasonjones)  
 GitHub: [mjajones](https://github.com/mjajones)
 
 ---
